@@ -1,0 +1,3 @@
+module evaluator {
+	requires JRI;
+}
